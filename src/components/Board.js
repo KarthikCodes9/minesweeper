@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Cell from './Cell';
-import { saveGame, loadGame } from '../api';
+import { listGames, loadGame, saveGame } from '../api';
+
 
 const Board = ({ rows, cols, mines }) => {
   const [board, setBoard] = useState([]);
