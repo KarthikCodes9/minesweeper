@@ -1,5 +1,59 @@
 # Getting Started with Create React App
 
+Minesweeper Game
+
+Welcome to the Minesweeper Game, a modern take on the classic puzzle game built using the MERN stack (MongoDB, Express, React, Node.js). This project features a minimalist design with a sleek, glass-themed front end, powered by Tailwind CSS.
+
+Features
+Classic Gameplay: Enjoy the traditional Minesweeper experience with intuitive controls and responsive design.
+MERN Stack: Fully developed using the MERN stack, showcasing the integration of MongoDB for data storage, Express and Node.js for backend logic, and React for a dynamic frontend.
+Glass-Themed UI: A modern, minimalist design with a glass effect, providing a clean and aesthetic user interface.
+Responsive Design: The game is optimized for various screen sizes, ensuring a smooth experience on both desktop and mobile devices.
+Customizable Settings: Adjust the difficulty level with different grid sizes and mine counts to tailor the challenge to your preference.
+Persistent Game State: Your progress is saved, allowing you to pick up where you left off.
+Installation
+To run this project locally, follow these steps:
+
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/your-username/minesweeper-game.git
+Navigate to the project directory:
+bash
+Copy code
+cd minesweeper-game
+Install dependencies for both backend and frontend:
+bash
+Copy code
+npm install
+cd client
+npm install
+Set up environment variables:
+Create a .env file in the root directory with the necessary environment variables.
+Example:
+makefile
+Copy code
+MONGO_URI=your_mongo_db_connection_string
+PORT=5000
+Run the backend server:
+bash
+Copy code
+npm run dev
+Run the frontend development server:
+bash
+Copy code
+cd client
+npm start
+Usage
+Start the Game: Launch the game and click on any cell to begin. The goal is to reveal all non-mine cells without triggering any mines.
+Game Over: If you click on a mine, the game ends, and the mines are revealed.
+Win the Game: Successfully reveal all non-mine cells to win the game!
+Contributing
+Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
