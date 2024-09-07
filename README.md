@@ -3,6 +3,14 @@
 
 Welcome to the Minesweeper Game, a modern take on the classic puzzle game built using the MERN stack (MongoDB, Express, React, Node.js). This project features a minimalist design with a sleek, glass-themed front end, powered by Tailwind CSS.
 
+
+
+
+![Screenshot 2024-09-07 150213](https://github.com/user-attachments/assets/82d4a24f-9290-4d10-bb4f-97c7c65aaab4)
+
+
+
+
 Features
 Classic Gameplay: Enjoy the traditional Minesweeper experience with intuitive controls and responsive design.
 MERN Stack: Fully developed using the MERN stack, showcasing the integration of MongoDB for data storage, Express and Node.js for backend logic, and React for a dynamic frontend.
