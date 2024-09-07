@@ -4,6 +4,12 @@
 Welcome to the Minesweeper Game, a modern take on the classic puzzle game built using the MERN stack (MongoDB, Express, React, Node.js). This project features a minimalist design with a sleek, glass-themed front end, powered by Tailwind CSS.
 
 
+It consists of three different levels - Beginner , Intermediate , Expert , based on the level the toughness of the game will be there.
+
+
+![Screenshot 2024-09-07 151627](https://github.com/user-attachments/assets/879ea1c5-128c-4851-b9e9-cbb82bc313ba)
+
+
 
 
 ![Screenshot 2024-09-07 150213](https://github.com/user-attachments/assets/82d4a24f-9290-4d10-bb4f-97c7c65aaab4)
